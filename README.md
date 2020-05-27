@@ -1,4 +1,4 @@
-# Dark Souls 3 Cheat Sheet
+# Graveyard Keeper cheat sheet
 
 To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
 
